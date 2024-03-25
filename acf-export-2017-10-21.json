@@ -1,0 +1,44 @@
+[
+    {
+        "key": "group_59e9bbaec0545",
+        "title": "Annotated Product",
+        "fields": [
+            {
+                "key": "field_59eb14c870ac9",
+                "label": "Annotated Product Image Hotspot",
+                "name": "missbish_annotated_product_hotspot",
+                "type": "hotspots",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "hs_description": 0,
+                "hs_link": 1,
+                "hs_prerendered": 1,
+                "hs_content": false,
+                "hs_sub_image": false
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "product"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]
